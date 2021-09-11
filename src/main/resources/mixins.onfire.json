@@ -1,0 +1,9 @@
+{
+  "compatibilityLevel": "JAVA_8",
+  "package": "xyz.reselim.onfire.mixins",
+  "refmap": "mixins.onfire.refmap.json",
+  "mixins": [
+    "ItemRendererMixin"
+  ],
+  "verbose": true
+}

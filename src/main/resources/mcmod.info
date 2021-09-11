@@ -1,0 +1,16 @@
+[
+  {
+    "modid": "onfire",
+    "name": "On Fire",
+    "description": "A visibility-focused replacement for the first person \"burning\" effect.",
+    "version": "${version}",
+    "mcversion": "${mcversion}",
+    "url": "https://github.com/Reselim/on-fire-mod",
+    "updateUrl": "",
+    "authorList": ["Reselim"],
+    "credits": "",
+    "logoFile": "",
+    "screenshots": [],
+    "dependencies": []
+  }
+]
